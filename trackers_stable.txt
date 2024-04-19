@@ -77,10 +77,10 @@ udp://tracker.t-rb.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://new-line.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-https://trackers.ptlsp.com:443/announce
 https://tracker.ipfsscan.io:443/announce
-udp://tracker.cyberia.is:6969/announce
+https://trackers.ptlsp.com:443/announce
 udp://tracker.filemail.com:6969/announce
+udp://tracker.cyberia.is:6969/announce
 udp://open.publictracker.xyz:6969/announce
 udp://jutone.com:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
