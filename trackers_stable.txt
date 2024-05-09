@@ -87,3 +87,5 @@ http://open.acgtracker.com:1096/announce
 udp://tracker.filemail.com:6969/announce
 udp://tk1.trackerservers.com:8080/announce
 http://t1.aag.moe:17715/announce
+udp://bt.rer.lol:6969/announce
+https://torrent.opiums.eu:443/announce
