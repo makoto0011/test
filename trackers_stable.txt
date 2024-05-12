@@ -35,12 +35,12 @@ udp://bubu.mapfactor.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 http://bvarf.tracker.sh:2086/announce
+udp://tracker.picotorrent.one:6969/announce
 udp://open.demonoid.ch:6969/announce
 https://tracker.loligirl.cn:443/announce
 udp://epider.me:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.fnix.net:6969/announce
-udp://tracker.picotorrent.one:6969/announce
 udp://open.stealth.si:80/announce
 udp://tracker.publictracker.xyz:6969/announce
 https://tracker1.ctix.cn:443/announce
