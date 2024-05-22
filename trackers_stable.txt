@@ -17,11 +17,11 @@ udp://tracker-udp.gbitt.info:80/announce
 https://tracker.tamersunion.org:443/announce
 udp://oh.fuuuuuck.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
-udp://exodus.desync.com:6969/announce
 http://tracker.files.fm:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.picotorrent.one:6969/announce
+udp://exodus.desync.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
