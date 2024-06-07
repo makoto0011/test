@@ -8,7 +8,6 @@ udp://opentracker.io:6969/announce
 http://tracker.renfei.net:8080/announce
 udp://ipv6.fuuuuuck.com:6969/announce
 udp://tracker.0x7c0.com:6969/announce
-udp://evan.im:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://amigacity.xyz:6969/announce
 https://t.peer-exchange.download:443/announce
@@ -17,6 +16,7 @@ udp://open.stealth.si:80/announce
 udp://moonburrow.club:6969/announce
 https://tracker.tamersunion.org:443/announce
 udp://tracker.fnix.net:6969/announce
+udp://evan.im:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.draatman.uk:6969/announce
 udp://ttr.croco.net:6969/announce
@@ -31,8 +31,8 @@ udp://oh.fuuuuuck.com:6969/announce
 https://tracker.gcrenwp.top:443/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://z.mercax.com:53/announce
-udp://bt2.archive.org:6969/announce
 https://tracker.yemekyedim.com:443/announce
+udp://bt2.archive.org:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.darkness.services:6969/announce
 udp://bt1.archive.org:6969/announce
