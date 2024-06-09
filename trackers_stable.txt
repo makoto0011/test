@@ -1,4 +1,5 @@
 udp://tracker.torrent.eu.org:451/announce
+https://tracker.tamersunion.org:443/announce
 https://tracker.lilithraws.org:443/announce
 https://trackers.mlsub.net:443/announce
 udp://opentracker.io:6969/announce
@@ -13,7 +14,6 @@ udp://open.stealth.si:80/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://moonburrow.club:6969/announce
 udp://open.demonii.com:1337/announce
-https://tracker.tamersunion.org:443/announce
 udp://evan.im:6969/announce
 http://ipv6.rer.lol:6969/announce
 udp://tracker.draatman.uk:6969/announce
