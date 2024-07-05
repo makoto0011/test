@@ -16,8 +16,8 @@ https://tracker.lilithraws.org:443/announce
 udp://amigacity.xyz:6969/announce
 http://tracker.files.fm:6969/announce
 udp://tracker.fnix.net:6969/announce
-http://bt.okmp3.ru:2710/announce
 http://ipv6.rer.lol:6969/announce
+http://bt.okmp3.ru:2710/announce
 udp://tracker.draatman.uk:6969/announce
 udp://moonburrow.club:6969/announce
 http://tracker.renfei.net:8080/announce
