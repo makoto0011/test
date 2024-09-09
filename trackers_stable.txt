@@ -31,7 +31,6 @@ http://tracker1.itzmx.com:8080/announce
 udp://odd-hd.fr:6969/announce
 udp://martin-gebhardt.eu:25/announce
 udp://tracker.darkness.services:6969/announce
-udp://tracker.deadorbit.nl:6969/announce
 https://trackers.run:443/announce
 udp://tracker.cyberia.is:6969/announce
 udp://retracker.hotplug.ru:2710/announce
@@ -41,6 +40,7 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://moonburrow.club:6969/announce
+udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.xor.st:6969/announce
 http://tracker.files.fm:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
