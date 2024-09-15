@@ -47,11 +47,11 @@ udp://run.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://seedpeer.net:6969/announce
-udp://tracker.xor.st:6969/announce
 udp://tracker.dler.com:6969/announce
 http://tracker2.itzmx.com:6961/announce
 udp://tracker.filemail.com:6969/announce
 udp://tk2.trackerservers.com:8080/announce
+udp://tracker.xor.st:6969/announce
 http://tracker1.itzmx.com:8080/announce
 http://tracker.dump.cl:6969/announce
 http://t1.aag.moe:17715/announce
