@@ -27,7 +27,6 @@ https://p4p.arenabg.com:1337/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
-https://tracker.bjut.jp:443/announce
 https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.ipfsscan.io:443/announce
@@ -91,6 +90,7 @@ udp://tracker.edkj.club:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.filemail.com:6969/announce
 udp://tracker.fnix.net:6969/announce
+udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.opentrackr.org:1337/announce
