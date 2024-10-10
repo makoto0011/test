@@ -29,6 +29,7 @@ http://tracker4.itzmx.com:2710/announce
 http://www.peckservers.com:9000/announce
 https://pybittrack.retiolus.net:443/announce
 https://retracker.x2k.ru:443/announce
+https://sparkle.ghostchu-services.top:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tr2.trkb.ru:443/announce
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -105,6 +106,7 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
+udp://tracker.kmzs123.cf:17272/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
