@@ -64,6 +64,6 @@ https://tracker.cloudit.top:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 http://open.acgtracker.com:1096/announce
 udp://bt1.archive.org:6969/announce
-http://tracker.files.fm:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
+http://tracker.files.fm:6969/announce
 http://tracker.renfei.net:8080/announce
