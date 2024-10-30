@@ -44,8 +44,8 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 udp://tracker.birkenwald.de:6969/announce
-udp://ismaarino.com:1234/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
+udp://ismaarino.com:1234/announce
 https://sparkle.ghostchu-services.top:443/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.filemail.com:6969/announce
@@ -57,8 +57,8 @@ http://bvarf.tracker.sh:2086/announce
 udp://t.overflow.biz:6969/announce
 udp://www.torrent.eu.org:451/announce
 http://tr1.aag.moe:2095/announce
-udp://tracker.gigantino.net:6969/announce
 http://tracker.vraphim.com:6969/announce
+udp://tracker.gigantino.net:6969/announce
 https://tracker.cloudit.top:443/announce
 udp://tracker.darkness.services:6969/announce
 http://tracker.renfei.net:8080/announce
