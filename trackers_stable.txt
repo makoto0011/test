@@ -80,3 +80,4 @@ udp://tracker.deadorbit.nl:6969/announce
 https://retracker.x2k.ru:443/announce
 udp://r.l5.ca:6969/announce
 http://ipv6.rer.lol:6969/announce
+udp://tracker.gmi.gd:6969/announce
