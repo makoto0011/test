@@ -50,3 +50,4 @@ udp://opentracker.io:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 http://tracker.netmap.top:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://tracker.lyretain.site:2710/announce
