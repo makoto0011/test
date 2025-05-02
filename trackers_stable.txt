@@ -8,7 +8,6 @@ udp://thouvenin.cloud:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
-https://tracker.yemekyedim.com:443/announce
 https://tracker.jdx3.org:443/announce
 udp://retracker.lanta.me:2710/announce
 udp://martin-gebhardt.eu:25/announce
@@ -39,6 +38,7 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.therarbg.to:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
+https://tracker.yemekyedim.com:443/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.srv00.com:6969/announce
