@@ -58,5 +58,5 @@ udp://tracker-udp.gbitt.info:80/announce
 http://tracker.privateseedbox.xyz:2710/announce
 udp://tracker.gmi.gd:6969/announce
 https://tracker.zhuqiy.top:443/announce
-udp://tr4ck3r.duckdns.org:6969/announce
 udp://tracker.zupix.online:1333/announce
+udp://tr4ck3r.duckdns.org:6969/announce
