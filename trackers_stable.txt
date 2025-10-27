@@ -60,6 +60,6 @@ udp://tracker.skillindia.site:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 http://t-backup.213891.xyz:80/announce
-http://torrent.hificode.in:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
+http://torrent.hificode.in:6969/announce
 udp://1c.premierzal.ru:6969/announce
