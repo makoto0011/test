@@ -25,7 +25,6 @@ https://cny.fan:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://evan.im:6969/announce
@@ -36,6 +35,7 @@ http://ipv4.rer.lol:2710/announce
 https://tracker.belmult.online:443/announce
 https://tracker.zhuqiy.com:443/announce
 udp://p4p.arenabg.com:1337/announce
+udp://tracker.tryhackx.org:6969/announce
 udp://bandito.byterunner.io:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.tvunderground.org.ru:3218/announce
@@ -59,8 +59,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.hifitechindia.com:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://open.demonii.com:1337/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://open.demonii.com:1337/announce
 http://t-backup.213891.xyz:80/announce
 udp://public.demonoid.ch:6969/announce
 http://bt.okmp3.ru:2710/announce
