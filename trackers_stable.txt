@@ -21,6 +21,7 @@ https://t.213891.xyz:443/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
+https://bittracker.nekosunevr.co.uk:443/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 http://tracker.beeimg.com:6969/announce
@@ -55,8 +56,8 @@ udp://open-tracker.demonoid.ch:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
 udp://retracker.hotplug.ru:2710/announce
-udp://udp.tracker.projectk.org:23333/announce
 http://tracker.bt4g.com:2095/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker.tritan.gg:8080/announce
 udp://tracker.therarbg.to:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
