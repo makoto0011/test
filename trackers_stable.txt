@@ -1,4 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
+http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.fnix.net:6969/announce
@@ -12,7 +13,6 @@ https://tracker.alaskantf.com:443/announce
 https://t.213891.xyz:443/announce
 http://t-backup.213891.xyz:80/announce
 https://tracker.qingwa.pro:443/announce
-http://bt.okmp3.ru:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
 https://tracker.yemekyedim.com:443/announce
 udp://bandito.byterunner.io:6969/announce
