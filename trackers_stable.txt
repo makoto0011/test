@@ -45,11 +45,11 @@ http://bt.okmp3.ru:2710/announce
 https://tracker.yemekyedim.com:443/announce
 udp://open.demonii.com:1337/announce
 http://ipv6.rer.lol:6969/announce
-udp://public.demonoid.ch:6969/announce
 udp://bandito.byterunner.io:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://anna.bt.bontal.net:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
+udp://public.demonoid.ch:6969/announce
 udp://open.demonoid.ch:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker-de-2.cutie.dating:1337/announce
