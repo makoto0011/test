@@ -26,11 +26,11 @@ udp://tracker.tvunderground.org.ru:3218/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
-udp://tracker.fnix.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.qingwa.pro:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://d40969.acod.regrucolo.ru:6969/announce
+udp://tracker.fnix.net:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 https://tracker.moeking.me:443/announce
 http://tracker.dhitechnical.com:6969/announce
