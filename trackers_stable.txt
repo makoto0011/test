@@ -11,7 +11,6 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
-https://tracker.maya.no.eu.org:443/announce
 http://open.acgtracker.com:1096/announce
 https://tracker.moeblog.cn:443/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -29,12 +28,12 @@ udp://tracker3.t-1.org:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.t-1.org:6969/announce
-https://tracker.qingwa.pro:443/announce
 http://ipv6.rer.lol:6969/announce
 udp://martin-gebhardt.eu:25/announce
 https://tracker.moeking.me:443/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.1h.is:1337/announce
+https://tracker.qingwa.pro:443/announce
 udp://tracker.fnix.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.pmman.tech:443/announce
@@ -52,10 +51,10 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://public.demonoid.ch:6969/announce
 http://bvarf.tracker.sh:2086/announce
 https://cny.fan:443/announce
-udp://tracker.orsvarn.com:6969/announce
 udp://www.torrent.eu.org:451/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.demonoid.ch:6969/announce
+udp://tracker.orsvarn.com:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://tracker.srv00.com:6969/announce
