@@ -42,13 +42,13 @@ http://tracker.exe.in.th:6969/announce
 https://tracker.moeblog.cn:443/announce
 udp://evan.im:6969/announce
 udp://tracker.ixuexi.click:6969/announce
-udp://open.demonii.com:1337/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.dhitechnical.com:6969/announce
-udp://t.overflow.biz:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker.dler.com:6969/announce
+udp://open.demonii.com:1337/announce
+udp://t.overflow.biz:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
