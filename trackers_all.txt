@@ -1105,6 +1105,7 @@ udp://tracker.istole.it:80/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
 udp://tracker.openbittorrent.com:80/announce
 udp://tracker.openbtba.com:6969/announce
