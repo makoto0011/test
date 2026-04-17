@@ -20,6 +20,7 @@ http://tracker.exe.in.th:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+https://opentracker.8880085.xyz:443/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
@@ -31,7 +32,6 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 https://torrents.tmtime.dev:443/announce
 udp://tracker.srv00.com:6969/announce
 https://tracker.pmman.tech:443/announce
-https://opentracker.8880085.xyz:443/announce
 https://http1.torrust-tracker-demo.com:443/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.fnix.net:6969/announce
