@@ -13,7 +13,6 @@ https://tr.nyacat.pw:443/announce
 https://t.213891.xyz:443/announce
 udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://tracker.ixuexi.click:6969/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
 udp://uabits.today:6990/announce
@@ -34,6 +33,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.ixuexi.click:6969/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
 udp://tracker.1h.is:1337/announce
@@ -46,8 +46,8 @@ udp://retracker.hotplug.ru:2710/announce
 http://tracker.dhitechnical.com:6969/announce
 https://tracker.ghostchu-services.top:443/announce
 udp://tracker-udp.gbitt.info:80/announce
-udp://vito-tracker.duckdns.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
+udp://vito-tracker.duckdns.org:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://tracker.hismz.cn:6969/announce
 http://bt2.archive.org:6969/announce
