@@ -1,4 +1,3 @@
-udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.tryhackx.org:6969/announce
@@ -33,6 +32,7 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.fnix.net:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 udp://archive.torrentonline.cc:42069/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.t-1.org:6969/announce
@@ -41,10 +41,10 @@ http://bt1.archive.org:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 https://t.213891.xyz:443/announce
-https://tracker.pmman.tech:443/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.ghostchu-services.top:443/announce
+https://tracker.pmman.tech:443/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.hismz.cn:6969/announce
