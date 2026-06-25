@@ -28,7 +28,6 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 https://banananetwork.qzz.io:443/announce
 udp://tracker.trackarr.org:6969/announce
 udp://tracker.t-1.org:6969/announce
-https://tr.nyacat.pw:443/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 https://t.213891.xyz:443/announce
 udp://open.ftorrent.com:443/announce
