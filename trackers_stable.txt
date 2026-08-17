@@ -26,8 +26,8 @@ udp://tracker.cn.nyaa.net:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
-udp://tracker.aruku.ovh:8081/announce
 http://tracker.dhitechnical.com:6969/announce
+udp://tracker.aruku.ovh:8081/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://open.ftorrent.com:443/announce
