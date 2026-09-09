@@ -2,7 +2,6 @@ udp://open.stealth.si:80/announce
 udp://tracker-udp.gbitt.info:80/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 udp://tracker.torrent.eu.org:451/announce
-http://tracker.mywaifu.best:6969/announce
 udp://open.demonii.com:1337/announce
 udp://tracker.qu.ax:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -27,6 +26,7 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
+http://tracker.mywaifu.best:6969/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.ilibr.org:6969/announce
 udp://ipv6.govt.hu:6969/announce
