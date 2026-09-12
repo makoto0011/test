@@ -16,6 +16,7 @@ https://tracker.onetracker.net:443/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.dler.com:6969/announce
 udp://martin-gebhardt.eu:25/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
@@ -32,7 +33,6 @@ https://t.213891.xyz:443/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.farted.net:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.nekomi.cn:443/announce
 http://bt1.archive.org:6969/announce
 udp://tracker.govt.hu:6969/announce
@@ -51,4 +51,3 @@ http://tracker.mywaifu.best:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://tracker.cn.nyaa.net:6969/announce
-udp://seedpeer.net:6969/announce
