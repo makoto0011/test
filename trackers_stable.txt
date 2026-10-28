@@ -50,3 +50,4 @@ udp://tracker.nyaa.net:6969/announce
 udp://tracker.okade.pro:1337/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+udp://tr.btube3.com:2010/announce
