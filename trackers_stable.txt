@@ -26,14 +26,14 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.corpscorp.online:80/announce
+http://bt2.archive.org:6969/announce
 udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 https://tracker.nekomi.cn:443/announce
 http://bt1.archive.org:6969/announce
-http://bt2.archive.org:6969/announce
-udp://tracker.ducks.party:1984/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://tracker.nyaa.net:6969/announce
+udp://tracker.ducks.party:1984/announce
 udp://open.demonii.com:1337/announce
 https://tracker.pmman.tech:443/announce
 https://tracker.qingwapt.org:443/announce
