@@ -40,12 +40,12 @@ http://taciturn-shadow.spb.ru:6969/announce
 https://tracker.qingwapt.org:443/announce
 udp://open.ftorrent.com:443/announce
 udp://tracker.dler.com:6969/announce
-udp://tracker.sela.st:6969/announce
 udp://mail.segso.net:6969/announce
 https://t.213891.xyz:443/announce
 udp://v2.iperson.xyz:6969/announce
-http://tracker.internetwarriors.net:1337/announce
 udp://tracker.ilibr.org:6969/announce
+http://tracker.internetwarriors.net:1337/announce
+udp://tracker.sela.st:6969/announce
 http://tracker.beeimg.com:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
