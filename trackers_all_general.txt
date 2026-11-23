@@ -5,7 +5,6 @@ http://bt2.archive.org:6969/announce
 http://open.tracker.cl:1337/announce
 http://opentracker.lain.moscow:6969/announce
 http://t.overflow.biz:6969/announce
-http://taciturn-shadow.spb.ru:6969/announce
 http://tr.highstar.shop:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
