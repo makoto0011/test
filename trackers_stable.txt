@@ -29,7 +29,6 @@ udp://tracker.evergarden.uk:1914/announce
 https://tracker.augrains.com:443/announce
 udp://stairs.lat:6969/announce
 http://tracker.mywaifu.best:6969/announce
-http://tracker.dhitechnical.com:6969/announce
 http://bt2.archive.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 udp://announce.augrains.com:6969/announce
@@ -39,6 +38,7 @@ https://004430.xyz:443/announce
 udp://tracker.okade.pro:1337/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://open.demonii.com:1337/announce
+http://tracker.dhitechnical.com:6969/announce
 udp://tracker.willy.pro:6969/announce
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 https://tracker.qingwapt.org:443/announce
